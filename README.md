@@ -1,0 +1,5 @@
+# Physics and Math Tutorials
+
+This repository contains a number of materials in topics related to quantum physics, math, and machine learning. These are works-in-progress intended for in-development courses and bootcamps. Colabs containing examples and exercises can be found in the `colabs` folder and are covered under the Apache 2.0 License. Early versions of written course materials-in-progress can be found in the `slides` folder and are covered under the CC BY 4.0 License.  Some portions of the written materials are incomplete or in outline only, and will be less useful than other portions.  While the content is "standard" in the sense that the concepts can be found in textbooks or well-known research papers, we hope that having a repository as an all-in-one place can be helpful for anyone trying to learn or teach. Note that this material is being presented "as-is" and will not be updated. We recommend that it be used as a supplement, guide, or reference along with textbooks or other study guides.
+
+This is not an official Google product.
